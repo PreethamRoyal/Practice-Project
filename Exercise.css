@@ -1,0 +1,11 @@
+body{
+  border:5px dashed grey;
+  border-radius:25px;
+  margin:50px;
+  padding:10px;
+  background-color:beige;
+}
+image{
+  float:right;
+
+}
